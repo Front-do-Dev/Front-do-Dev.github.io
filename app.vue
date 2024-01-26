@@ -1,5 +1,8 @@
+<script setup>
+  import Hello from './src/pages/index.vue'
+</script>
 <template>
   <div>
-    <NuxtWelcome />
+    <Hello />
   </div>
 </template>
